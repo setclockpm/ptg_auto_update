@@ -1,0 +1,1855 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"focus",
+				"focus:"
+			],
+			[
+				":size",
+				":size_category"
+			],
+			[
+				"white",
+				"white-space\tproperty"
+			],
+			[
+				"par",
+				"parallax-container\t(landing.html.erb)"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"master",
+				"master_price"
+			],
+			[
+				"mas",
+				"master_price\t(variant.rb)"
+			],
+			[
+				"signed_in_root",
+				"signed_in_root_path"
+			],
+			[
+				"size",
+				"size_category"
+			],
+			[
+				"pre_",
+				"pre_pack_2"
+			],
+			[
+				"size_cat",
+				"size_category\t(products_spec.rb)"
+			],
+			[
+				"size_category",
+				"size_category_id\t(_form.html.erb)"
+			],
+			[
+				":si",
+				":size_small"
+			],
+			[
+				"packing_configuration_",
+				"packing_configuration_attributes\t(variants_controller.rb)"
+			],
+			[
+				"pac",
+				"packing_configuration\t(_form.html.erb)"
+			],
+			[
+				"pre_pa",
+				"pre_pack_2"
+			],
+			[
+				"size_ca",
+				"size_category\t(packing_configuration.rb)"
+			],
+			[
+				"new",
+				"new_product"
+			],
+			[
+				":s",
+				":size_category"
+			],
+			[
+				"let",
+				"let!"
+			],
+			[
+				"ensure",
+				"ensure_master_packing_configuration"
+			],
+			[
+				"border-r",
+				"border-radius\t(products.css.scss)"
+			],
+			[
+				"digit",
+				"digit-field\t(_form.html.erb)"
+			],
+			[
+				":pre_pack",
+				":pre_pack_7"
+			],
+			[
+				"PRE",
+				"PRE_PACK_CODE_MAX_LENGTH"
+			],
+			[
+				"packing",
+				"packing_cfg"
+			],
+			[
+				"pack",
+				"packing_cfg"
+			],
+			[
+				"Spree::P",
+				"Spree::PrePack\t(variant.rb)"
+			],
+			[
+				"is_",
+				"is_master\t(variants_controller.rb)"
+			],
+			[
+				"prePack",
+				"prePackQuantity"
+			],
+			[
+				"auto",
+				"autocomplete"
+			],
+			[
+				"pre",
+				"prePackTable"
+			],
+			[
+				"pre-pac",
+				"pre-pack-description\t(_cart_form.html.erb)"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"z-de",
+				"z-depth-1"
+			],
+			[
+				"z-depth",
+				"z-depth-3\t(_variable_overrides.scss)"
+			],
+			[
+				"fi",
+				"fixed\ttable-layout"
+			],
+			[
+				"table",
+				"table-layout\tproperty"
+			],
+			[
+				"pack-",
+				"pack-contents\t(_cart_form.html.erb)"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"page-",
+				"page-item"
+			],
+			[
+				"order_",
+				"order_summary\t(show.html.erb)"
+			],
+			[
+				"wav",
+				"waves-ripple\t(edit.html.erb)"
+			],
+			[
+				"card-",
+				"card-reveal\t(_product_thumbnail.html.erb)"
+			],
+			[
+				"full",
+				"full_messages\t(resource_controller.rb)"
+			],
+			[
+				"helper",
+				"helper-text\t(forms.css.scss)"
+			],
+			[
+				"le",
+				"length\t(taxon.rb)"
+			],
+			[
+				"backgr",
+				"background_color"
+			],
+			[
+				"icon_",
+				"icon_img"
+			],
+			[
+				"title",
+				"title-stripe\t(show.html.erb)"
+			],
+			[
+				"price",
+				"price\t(_product_thumbnail.html.erb)"
+			],
+			[
+				"list-group-",
+				"list-group-horizontal-sm\t(_cart_form.html.erb)"
+			],
+			[
+				"list-gr",
+				"list-group-item\t(_cart_form.html.erb)"
+			],
+			[
+				"val",
+				"valign-middle\t(_login_bar_items.html.erb)"
+			],
+			[
+				"ico",
+				"icon_class\t(base_helper.rb)"
+			],
+			[
+				"filt",
+				"filter_choices"
+			],
+			[
+				"paddin",
+				"padding-left\tproperty"
+			],
+			[
+				"line",
+				"line-height\tproperty"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"side",
+				"sidenav"
+			],
+			[
+				"sideba",
+				"sidebar-item"
+			],
+			[
+				"margin-",
+				"margin-right\tproperty"
+			],
+			[
+				"mater",
+				"material-icons"
+			],
+			[
+				"ale",
+				"alerts"
+			],
+			[
+				"flash",
+				"flash-messages\t(spree_application.html.erb)"
+			],
+			[
+				"border",
+				"border-radius\t(buttons.css.scss)"
+			],
+			[
+				"backg",
+				"background-color\t(buttons.css.scss)"
+			],
+			[
+				"home",
+				"homepage-products\t(index.html.erb)"
+			],
+			[
+				"form-",
+				"form-group\t(text.css.scss)"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"sideb",
+				"sidebar-item"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"filter",
+				"filter_choices\t(_filters.html.erb)"
+			],
+			[
+				"z-",
+				"z-depth-1\t(_variable_overrides.scss)"
+			],
+			[
+				"bre",
+				"breadcrumb\t(base_helper.rb)"
+			],
+			[
+				"content",
+				"content_tag"
+			],
+			[
+				"conte",
+				"content_tag"
+			],
+			[
+				"nav",
+				"nav-item"
+			],
+			[
+				"link",
+				"link-to-icon"
+			],
+			[
+				"navbar-c",
+				"navbar-collapse\t(bootstrap.css)"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"hei",
+				"height\tproperty"
+			],
+			[
+				"fa-",
+				"fa-sign-out\t(_navigation_footer.html.erb)"
+			],
+			[
+				"permit",
+				"permit_title"
+			],
+			[
+				"previ",
+				"previewable_image_tag\t(images_helper.rb)"
+			],
+			[
+				"material",
+				"materialbox\t(documents.html.erb)"
+			],
+			[
+				"action",
+				"action_name\t(user_registrations_controller.rb)"
+			],
+			[
+				"controlle",
+				"controller\t(application_controller.rb)"
+			],
+			[
+				"lin",
+				"line2"
+			],
+			[
+				"business",
+				"business_verified\t(users_controller.rb)"
+			],
+			[
+				"account_",
+				"account_status"
+			],
+			[
+				"upd",
+				"updated"
+			],
+			[
+				"url",
+				"url_for"
+			],
+			[
+				"busin",
+				"business_license\t(html_elements_helper.rb)"
+			],
+			[
+				"html",
+				"html_opts"
+			],
+			[
+				"ship_",
+				"ship_address"
+			],
+			[
+				"only",
+				"only:"
+			],
+			[
+				"accou",
+				"account-edit-login"
+			],
+			[
+				"ext",
+				"extend"
+			],
+			[
+				"title-bar",
+				"title-bar-container"
+			],
+			[
+				"ship_address",
+				"ship_address_id\t(user_address_book.rb)"
+			],
+			[
+				"email_",
+				"email_field_value"
+			],
+			[
+				"ve",
+				"vertical-align\tproperty"
+			],
+			[
+				"spre",
+				"spree_current_user"
+			],
+			[
+				"before",
+				"before_action\t(helpers.rb)"
+			],
+			[
+				"fir",
+				"first_name"
+			],
+			[
+				"signed_up",
+				"signed_up_but_\t(user_registrations_controller.rb)"
+			],
+			[
+				"whole",
+				"wholesale_invoice\t(_user_form.html.erb)"
+			],
+			[
+				"wholesale",
+				"wholesale_invoice"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"file-",
+				"file-field\t(_user_form.html.erb)"
+			],
+			[
+				"res",
+				"resource"
+			],
+			[
+				"success",
+				"success-dark"
+			],
+			[
+				"back",
+				"background-dark"
+			],
+			[
+				"bill_add",
+				"bill_address_attributes"
+			],
+			[
+				"use_shi",
+				"use_shipping"
+			],
+			[
+				"ship",
+				"shipping"
+			],
+			[
+				"titl",
+				"title-bar"
+			],
+			[
+				"account",
+				"account-summary"
+			],
+			[
+				"pos",
+				"pos\tposition: ${1:relative};"
+			],
+			[
+				"letter",
+				"letter-spacing\tproperty"
+			],
+			[
+				"valid",
+				"validate"
+			],
+			[
+				"$major",
+				"$major-second"
+			],
+			[
+				"field",
+				"fieldset\t(edit.html.erb)"
+			],
+			[
+				"sel",
+				"select-dropdown"
+			],
+			[
+				"drop",
+				"dropdown-content"
+			],
+			[
+				"bt",
+				"btn-large"
+			],
+			[
+				"inline-",
+				"inline-btn\t(new.html.erb)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Pipfile",
+			"settings":
+			{
+				"buffer_size": 166,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ptg_clean_sharing.py",
+			"settings":
+			{
+				"buffer_size": 11387,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test.py",
+			"settings":
+			{
+				"buffer_size": 17,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Pipfile.lock",
+			"settings":
+			{
+				"buffer_size": 2838,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"render",
+				"Snippet: render (partial)"
+			],
+			[
+				"Snippet: belongs_to",
+				"Snippet: belongs_to"
+			],
+			[
+				"Pa",
+				"Package Control: List Packages"
+			],
+			[
+				"Snippet: erb",
+				"Snippet: end (ERB)"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Close O",
+				"Close Other Windows: Close all windows except the active one"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"User Setttings",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Set Syntax: HTML (Rails)"
+			]
+		],
+		"width": 524.0
+	},
+	"console":
+	{
+		"height": 201.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/pmedrano/Projects/Programming/Python/digidems/ptg_auto_update"
+	],
+	"file_history":
+	[
+		"/Users/pmedrano/Downloads/ptg_sharing/ptg_clean_sharing.py",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/spec/features/checkout_spec.rb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/spec/support/features/materialize_form_helper.rb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/spec/support/features/user_support.rb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/solidus_frontend-2.8.3/spec/features/checkout_spec.rb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/solidus_core-2.8.3/spec/models/spree/stock/availability_validator_spec.rb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/controllers/application_controller.rb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/spec/features/admin/variant_spec.rb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/solidus_backend-2.8.3/spec/features/admin/products/variant_spec.rb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/solidus_backend-2.8.3/spec/features/admin/products/products_spec.rb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/spec/features/admin/products_spec.rb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/views/spree/layouts/full_width.html.erb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/views/spree/products/_pre_pack_detail.html.erb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/views/spree/products/_cart_form.html.erb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/helpers/spree/base_helper.rb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/views/spree/shared/_sidebar.html.erb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/assets/javascripts/spree/frontend/product.js",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/vendor/assets/stylesheets/spree/frontend/layout.css.scss",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/controllers/spree/pre_packs_controller.rb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/controllers/spree/home_controller.rb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/helpers/application_helper.rb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/views/spree/shared/_login_bar_items.html.erb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/views/spree/shared/_nav_bar.html.erb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/views/spree/home/landing.html.erb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/views/spree/layouts/spree_application.html.erb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/solidus_frontend-2.8.3/app/controllers/spree/store_controller.rb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/controllers/spree/store_controller_decorator.rb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/solidus_frontend-2.8.3/app/controllers/spree/checkout_controller.rb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/controllers/spree/checkout_controller_decorator.rb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/views/spree/user_registrations/edit.html.erb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/views/spree/admin/users/documents.html.erb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/views/spree/admin/products/_master_js_functions.html.erb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/vendor/assets/stylesheets/spree/frontend/text.css.scss",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/controllers/spree/admin/user_sessions_controller.rb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/config/routes.rb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/views/spree/admin/variants/_form.html.erb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/views/example.html.erb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/views/spree/home/index.html.erb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/solidus_frontend-2.8.3/config/routes.rb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/views/spree/address/_form.html.erb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/spec/support/factory_bot.rb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/vendor/assets/stylesheets/spree/backend/forms.css.scss",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/models/spree/variant.rb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/views/spree/admin/products/_form.html.erb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/config/storage.yml",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/views/spree/shared/_fixed_taxonomies.html.erb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/config/locales/en.yml",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/views/spree/products/_taxons.html.erb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/views/spree/shared/_nav_cart_link.html.erb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/vendor/assets/stylesheets/spree/backend/navigation.css.scss",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/views/spree/shared/_header.html.erb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/solidus_frontend-2.8.3/app/controllers/spree/products_controller.rb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/helpers/spree/admin/base_helper.rb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/solidus_backend-2.8.3/app/views/spree/admin/shared/_calculator_fields.html.erb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/models/spree/user.rb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/devise-4.6.2/app/controllers/devise/registrations_controller.rb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/patch.sh",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/views/spree/admin/products/new.html.erb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/views/spree/admin/products/edit.html.erb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/models/spree/packing_configuration.rb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/controllers/spree/admin/shipping_methods_controller.rb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/solidus_core-2.8.3/app/models/spree/zone.rb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/solidus_core-2.8.3/app/models/spree/shipping_method.rb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/views/spree/admin/shipping_methods/_form.html.erb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/solidus_backend-2.8.3/app/views/spree/admin/shipping_methods/_form.html.erb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/views/spree/admin/shared/_calculator_fields.html.erb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/solidus_core-2.8.3/app/models/spree/shipping_method_zone.rb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/solidus_core-2.8.3/lib/spree/testing_support/factories/variant_factory.rb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/spec/spree/testing_support/order_walkthrough.rb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/solidus_backend-2.8.3/app/controllers/spree/admin/resource_controller.rb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/solidus_backend-2.8.3/app/views/spree/admin/zones/new.html.erb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/solidus_backend-2.8.3/app/views/spree/admin/tax_rates/_form.html.erb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/spec/spree/testing_support/sequences.rb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/solidus_backend-2.8.3/app/controllers/spree/admin/shipping_methods_controller.rb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/solidus_api-2.8.3/app/controllers/spree/api/base_controller.rb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/config/initializers/spree.rb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/solidus_core-2.8.3/config/locales/en.yml",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/views/spree/admin/tax_categories/_form.html.erb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/views/spree/admin/tax_rates/_form.html.erb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/solidus_backend-2.8.3/app/views/spree/admin/tax_categories/_form.html.erb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/views/spree/admin/zones/_form.html.erb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/solidus_backend-2.8.3/app/views/spree/admin/zones/_form.html.erb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/solidus_core-2.8.3/lib/spree/testing_support/sequences.rb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/solidus_core-2.8.3/lib/spree/testing_support/order_walkthrough.rb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/spec/models/variant_spec.rb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/spec/rails_helper.rb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/paperclip-5.3.0/lib/paperclip/attachment.rb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/paperclip-5.3.0/lib/paperclip/has_attached_file.rb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/solidus_core-2.8.3/lib/spree/testing_support/factories/line_item_factory.rb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/solidus_core-2.8.3/app/models/spree/asset.rb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/discard-1.1.0/lib/discard/model.rb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/config/environments/test.rb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/paperclip-5.3.0/lib/paperclip/storage/s3.rb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/models/spree/image.rb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/solidus_core-2.8.3/lib/spree/testing_support/factories/image_factory.rb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/aws-partitions-1.165.0/lib/aws-partitions/endpoint_provider.rb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/factory_bot-5.0.2/lib/factory_bot/strategy_syntax_method_registrar.rb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/solidus_support-0.2.2/lib/solidus_support/extension/rails_helper.rb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/controllers/spree/admin/variants_controller.rb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/helpers/spree/admin/products_helper.rb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/solidus_core-2.8.3/lib/spree/testing_support/factories/product_factory.rb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/log/test.log",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/controllers/spree/admin/products_controller.rb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/views/spree/admin/variants/_packing_configuration_fields.html.erb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/solidus_core-2.8.3/app/models/spree/image.rb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/views/spree/admin/variants/_packing_configuration_js_functions.html.erb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/spec/support/concerns/default_price.rb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/solidus_frontend-2.8.3/lib/spree/frontend.rb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/models/spree/line_item.rb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/solidus_frontend-2.8.3/lib/spree_frontend.rb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/solidus_frontend-2.8.3/lib/solidus_frontend.rb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/solidus_frontend-2.8.3/solidus_frontend.gemspec",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/config/environments/development.rb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/solidus_core-2.8.3/spec/models/spree/variant_spec.rb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/solidus_core-2.8.3/spec/support/concerns/default_price.rb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/spec/support/shared_contexts/checkout_setup.rb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/tmp/capybara/screenshot_2019-12-04-23-21-59.506.html",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/models/spree/size_category.rb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/views/spree/admin/variants/_variant_js_functions.html.erb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/spec/support/features/fill_in_with_force.rb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/spec/support/user_support.rb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/solidus_backend-2.8.3/spec/support/feature/base_feature_helper.rb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/tmp/capybara/screenshot_2019-12-04-22-47-44.623.html",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/solidus_core-2.8.3/lib/spree/testing_support/factories/option_type_factory.rb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/solidus_core-2.8.3/lib/spree/testing_support/factories/option_value_factory.rb",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/tmp/capybara/screenshot_2019-11-26-18-41-14.294.html",
+		"/Users/pmedrano/Projects/Programming/Rails/hot_and_delicious/app/models/spree/product.rb",
+		"/Users/pmedrano/.rvm/gems/ruby-2.6.3@hand/gems/solidus_core-2.8.3/lib/spree/testing_support/factories.rb"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Pipfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 166,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								91,
+								91
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ptg_clean_sharing.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11387,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								115,
+								115
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "test.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17,
+								17
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Pipfile.lock",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2838,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2836,
+										2837
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										0,
+										1
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 114.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ptg_auto_update.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"hot_and_delicious/app/views/spree/shared/_login.html.erb"
+			],
+			[
+				"spree shared login",
+				"hot_and_delicious/app/views/spree/shared/_login.html.erb"
+			],
+			[
+				"user sessions new",
+				"hot_and_delicious/app/views/spree/admin/user_sessions/new.html.erb"
+			],
+			[
+				"en.yml",
+				"hot_and_delicious/config/locales/en.yml"
+			],
+			[
+				"checkout spec",
+				"solidus_frontend-2.8.3/spec/features/checkout_spec.rb"
+			],
+			[
+				"variant spec",
+				"solidus_backend-2.8.3/spec/features/admin/products/variant_spec.rb"
+			],
+			[
+				"products spec",
+				"solidus_backend-2.8.3/spec/features/admin/products/products_spec.rb"
+			],
+			[
+				"pre packs co",
+				"hot_and_delicious/app/controllers/spree/admin/pre_packs_controller.rb"
+			],
+			[
+				"prod js",
+				"hot_and_delicious/app/assets/javascripts/spree/frontend/product.js"
+			],
+			[
+				"log ba",
+				"hot_and_delicious/app/views/spree/shared/_login_bar_items.html.erb"
+			],
+			[
+				"nav bar",
+				"hot_and_delicious/app/views/spree/shared/_nav_bar.html.erb"
+			],
+			[
+				"landing",
+				"hot_and_delicious/app/views/spree/home/landing.html.erb"
+			],
+			[
+				"spree app",
+				"hot_and_delicious/app/views/spree/layouts/spree_application.html.erb"
+			],
+			[
+				"full",
+				"hot_and_delicious/app/views/spree/layouts/full_width.html.erb"
+			],
+			[
+				"layout",
+				"hot_and_delicious/vendor/assets/stylesheets/spree/frontend/layout.css.scss"
+			],
+			[
+				"home contr",
+				"hot_and_delicious/app/controllers/spree/home_controller.rb"
+			],
+			[
+				"checkout con",
+				"solidus_frontend-2.8.3/app/controllers/spree/checkout_controller.rb"
+			],
+			[
+				"app contr",
+				"hot_and_delicious/app/controllers/application_controller.rb"
+			],
+			[
+				"store control",
+				"hot_and_delicious/app/controllers/spree/store_controller_decorator.rb"
+			],
+			[
+				"store contr",
+				"solidus_frontend-2.8.3/app/controllers/spree/store_controller.rb"
+			],
+			[
+				"routes",
+				"hot_and_delicious/config/routes.rb"
+			],
+			[
+				"login bar ite",
+				"hot_and_delicious/app/views/spree/shared/_login_bar_items.html.erb"
+			],
+			[
+				"master js",
+				"hot_and_delicious/app/views/spree/admin/products/_master_js_functions.html.erb"
+			],
+			[
+				"example",
+				"hot_and_delicious/app/views/example.html.erb"
+			],
+			[
+				"variants form",
+				"hot_and_delicious/app/views/spree/admin/variants/_form.html.erb"
+			],
+			[
+				"form.html",
+				"hot_and_delicious/app/views/spree/address/_form.html.erb"
+			],
+			[
+				"full wi",
+				"hot_and_delicious/app/views/spree/layouts/full_width.html.erb"
+			],
+			[
+				"home index",
+				"hot_and_delicious/app/views/spree/home/index.html.erb"
+			],
+			[
+				"home controller",
+				"hot_and_delicious/app/controllers/spree/home_controller.rb"
+			],
+			[
+				"spree applicatio",
+				"hot_and_delicious/app/views/spree/layouts/spree_application.html.erb"
+			],
+			[
+				"frontend / css",
+				"hot_and_delicious/vendor/assets/stylesheets/spree/frontend/layout.css.scss"
+			],
+			[
+				"stora",
+				"hot_and_delicious/config/storage.yml"
+			],
+			[
+				"nav cart",
+				"hot_and_delicious/app/views/spree/shared/_nav_cart_link.html.erb"
+			],
+			[
+				"login bar",
+				"hot_and_delicious/app/views/spree/shared/_login_bar_items.html.erb"
+			],
+			[
+				"text.css",
+				"hot_and_delicious/vendor/assets/stylesheets/spree/frontend/text.css.scss"
+			],
+			[
+				"frontend / css.scss",
+				"hot_and_delicious/vendor/assets/stylesheets/spree/frontend/layout.css.scss"
+			],
+			[
+				"navi",
+				"hot_and_delicious/vendor/assets/stylesheets/spree/backend/navigation.css.scss"
+			],
+			[
+				"header",
+				"hot_and_delicious/app/views/spree/shared/_header.html.erb"
+			],
+			[
+				"forms.css",
+				"hot_and_delicious/vendor/assets/stylesheets/spree/backend/forms.css.scss"
+			],
+			[
+				"config en.ym",
+				"hot_and_delicious/config/locales/en.yml"
+			],
+			[
+				"products form",
+				"hot_and_delicious/app/views/spree/admin/products/_form.html.erb"
+			],
+			[
+				"variants/form",
+				"hot_and_delicious/app/views/spree/admin/variants/_form.html.erb"
+			],
+			[
+				"variant.rb",
+				"hot_and_delicious/app/models/spree/variant.rb"
+			],
+			[
+				"fixed",
+				"hot_and_delicious/app/views/spree/shared/_fixed_taxonomies.html.erb"
+			],
+			[
+				"sidebar",
+				"hot_and_delicious/app/views/spree/shared/_sidebar.html.erb"
+			],
+			[
+				"checkout contr",
+				"solidus_frontend-2.8.3/app/controllers/spree/checkout_controller.rb"
+			],
+			[
+				"pat",
+				"hot_and_delicious/patch.sh"
+			],
+			[
+				"user.rb",
+				"hot_and_delicious/app/models/spree/user.rb"
+			],
+			[
+				"products controll",
+				"solidus_frontend-2.8.3/app/controllers/spree/products_controller.rb"
+			],
+			[
+				"appl contr",
+				"hot_and_delicious/app/controllers/application_controller.rb"
+			],
+			[
+				"spec user supp",
+				"hot_and_delicious/spec/support/features/user_support.rb"
+			],
+			[
+				"packing configiur",
+				"hot_and_delicious/app/models/spree/packing_configuration.rb"
+			],
+			[
+				"calulato fi",
+				"solidus_backend-2.8.3/app/views/spree/admin/shared/_calculator_fields.html.erb"
+			],
+			[
+				"shipping methods form",
+				"solidus_backend-2.8.3/app/views/spree/admin/shipping_methods/_form.html.erb"
+			],
+			[
+				"shipping meth contr",
+				"solidus_backend-2.8.3/app/controllers/spree/admin/shipping_methods_controller.rb"
+			],
+			[
+				"zone",
+				"solidus_core-2.8.3/app/models/spree/zone.rb"
+			],
+			[
+				"shippin metho zone",
+				"solidus_core-2.8.3/app/models/spree/shipping_method_zone.rb"
+			],
+			[
+				"tax rates form",
+				"solidus_backend-2.8.3/app/views/spree/admin/tax_rates/_form.html.erb"
+			],
+			[
+				"tax categories form",
+				"solidus_backend-2.8.3/app/views/spree/admin/tax_categories/_form.html.erb"
+			],
+			[
+				"admin zones form",
+				"solidus_backend-2.8.3/app/views/spree/admin/zones/_form.html.erb"
+			],
+			[
+				"admin zones new",
+				"solidus_backend-2.8.3/app/views/spree/admin/zones/new.html.erb"
+			],
+			[
+				"sequence",
+				"solidus_core-2.8.3/lib/spree/testing_support/sequences.rb"
+			],
+			[
+				"seq",
+				"hot_and_delicious/spec/spree/testing_support/sequences.rb"
+			],
+			[
+				"sequenc",
+				"solidus_core-2.8.3/lib/spree/testing_support/sequences.rb"
+			],
+			[
+				"spree",
+				"hot_and_delicious/config/initializers/spree.rb"
+			],
+			[
+				"rails hel",
+				"hot_and_delicious/spec/rails_helper.rb"
+			],
+			[
+				"asset",
+				"solidus_core-2.8.3/app/models/spree/asset.rb"
+			],
+			[
+				"image",
+				"hot_and_delicious/app/models/spree/image.rb"
+			],
+			[
+				"test.rb",
+				"hot_and_delicious/config/environments/test.rb"
+			],
+			[
+				"image fa",
+				"solidus_core-2.8.3/lib/spree/testing_support/factories/image_factory.rb"
+			],
+			[
+				"rails help",
+				"hot_and_delicious/spec/rails_helper.rb"
+			],
+			[
+				"rails helper",
+				"hot_and_delicious/spec/rails_helper.rb"
+			],
+			[
+				"factory",
+				"hot_and_delicious/spec/support/factory_bot.rb"
+			],
+			[
+				"product fasctory",
+				"solidus_core-2.8.3/lib/spree/testing_support/factories/product_factory.rb"
+			],
+			[
+				"test",
+				"hot_and_delicious/log/test.log"
+			],
+			[
+				"tes",
+				"hot_and_delicious/log/test.log"
+			],
+			[
+				"test.log",
+				"hot_and_delicious/log/test.log"
+			],
+			[
+				"rails he",
+				"hot_and_delicious/spec/rails_helper.rb"
+			],
+			[
+				"image.rb",
+				"solidus_core-2.8.3/app/models/spree/image.rb"
+			],
+			[
+				"image fac",
+				"solidus_core-2.8.3/lib/spree/testing_support/factories/image_factory.rb"
+			],
+			[
+				"check spec",
+				"hot_and_delicious/spec/features/checkout_spec.rb"
+			],
+			[
+				"spree/frontend",
+				"solidus_frontend-2.8.3/lib/spree/frontend.rb"
+			],
+			[
+				"spree/fron",
+				"solidus_frontend-2.8.3/lib/spree/frontend.rb"
+			],
+			[
+				"spree_front",
+				"solidus_frontend-2.8.3/lib/spree_frontend.rb"
+			],
+			[
+				"solidus_frontend",
+				"solidus_frontend-2.8.3/lib/solidus_frontend.rb"
+			],
+			[
+				"developmen",
+				"hot_and_delicious/config/environments/development.rb"
+			],
+			[
+				"default price",
+				"solidus_core-2.8.3/spec/support/concerns/default_price.rb"
+			],
+			[
+				"variant_factory",
+				"solidus_core-2.8.3/lib/spree/testing_support/factories/variant_factory.rb"
+			],
+			[
+				"var js",
+				"hot_and_delicious/app/views/spree/admin/variants/_variant_js_functions.html.erb"
+			],
+			[
+				"pack conf js",
+				"hot_and_delicious/app/views/spree/admin/variants/_packing_configuration_js_functions.html.erb"
+			],
+			[
+				"pack conf",
+				"hot_and_delicious/app/views/spree/admin/variants/_packing_configuration_fields.html.erb"
+			],
+			[
+				"base featu",
+				"solidus_backend-2.8.3/spec/support/feature/base_feature_helper.rb"
+			],
+			[
+				"rails_Helper",
+				"hot_and_delicious/spec/rails_helper.rb"
+			],
+			[
+				"option type",
+				"solidus_core-2.8.3/lib/spree/testing_support/factories/option_type_factory.rb"
+			],
+			[
+				"option_value ",
+				"solidus_core-2.8.3/lib/spree/testing_support/factories/option_value_factory.rb"
+			],
+			[
+				"spree.rb",
+				"hot_and_delicious/config/initializers/spree.rb"
+			],
+			[
+				"example.",
+				"hot_and_delicious/app/views/example.html.erb"
+			],
+			[
+				"packing con js",
+				"hot_and_delicious/app/views/spree/admin/variants/_packing_configuration_js_functions.html.erb"
+			],
+			[
+				"products _form",
+				"hot_and_delicious/app/views/spree/admin/products/_form.html.erb"
+			],
+			[
+				"variants /form",
+				"hot_and_delicious/app/views/spree/admin/variants/_form.html.erb"
+			],
+			[
+				"pack conf field",
+				"hot_and_delicious/app/views/spree/admin/variants/_packing_configuration_fields.html.erb"
+			],
+			[
+				"rails helpe",
+				"hot_and_delicious/spec/rails_helper.rb"
+			],
+			[
+				"factories",
+				"solidus_core-2.8.3/lib/spree/testing_support/factories.rb"
+			],
+			[
+				"size",
+				"hot_and_delicious/app/models/spree/size_category.rb"
+			],
+			[
+				"product dup",
+				"solidus_core-2.8.3/lib/spree/core/product_duplicator.rb"
+			],
+			[
+				"product dupl",
+				"hot_and_delicious/lib/spree/core/product_duplicator.rb"
+			],
+			[
+				"prod duplicat",
+				"solidus_core-2.8.3/lib/spree/core/product_duplicator.rb"
+			],
+			[
+				"produc spec",
+				"hot_and_delicious/spec/features/admin/products_spec.rb"
+			],
+			[
+				"pre pack rb",
+				"hot_and_delicious/app/models/spree/pre_pack.rb"
+			],
+			[
+				"packing ",
+				"hot_and_delicious/app/models/spree/packing_configuration.rb"
+			],
+			[
+				"price",
+				"solidus_core-2.8.3/app/models/spree/price.rb"
+			],
+			[
+				"packing config fiel",
+				"hot_and_delicious/app/views/spree/admin/variants/_packing_configuration_fields.html.erb"
+			],
+			[
+				"boot.",
+				"hot_and_delicious/config/boot.rb"
+			],
+			[
+				"gemfile",
+				"hot_and_delicious/Gemfile"
+			],
+			[
+				"products contr",
+				"solidus_backend-2.8.3/app/controllers/spree/admin/products_controller.rb"
+			],
+			[
+				"prepack cont",
+				"hot_and_delicious/app/controllers/spree/admin/pre_packs_controller.rb"
+			],
+			[
+				"master_js",
+				"hot_and_delicious/app/views/spree/admin/products/_master_js_functions.html.erb"
+			],
+			[
+				"add to ",
+				"solidus_auth_devise-2.1.0/db/migrate/20140904000425_add_deleted_at_to_users.rb"
+			],
+			[
+				"add pre pack",
+				"hot_and_delicious/db/migrate/20191119015407_add_pre_pack_code_fields_to_packing_configuration.rb"
+			],
+			[
+				"def pri",
+				"hot_and_delicious/app/models/concerns/spree/default_price.rb"
+			],
+			[
+				"variants",
+				"solidus_backend-2.8.3/app/controllers/spree/admin/variants_controller.rb"
+			],
+			[
+				"resource c",
+				"solidus_backend-2.8.3/app/controllers/spree/admin/resource_controller.rb"
+			],
+			[
+				"default",
+				"solidus_core-2.8.3/app/models/concerns/spree/default_price.rb"
+			],
+			[
+				"pricer",
+				"solidus_core-2.8.3/app/models/spree/price.rb"
+			],
+			[
+				"product",
+				"hot_and_delicious/app/models/spree/product.rb"
+			],
+			[
+				"products con",
+				"hot_and_delicious/app/controllers/spree/admin/products_controller.rb"
+			],
+			[
+				"admin products co",
+				"hot_and_delicious/app/controllers/spree/admin/products_controller.rb"
+			],
+			[
+				"product.js",
+				"hot_and_delicious/app/assets/javascripts/spree/frontend/product.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 925.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 260.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
