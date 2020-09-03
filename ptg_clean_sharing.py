@@ -34,7 +34,7 @@ with open("%s/ptg_secret_info" % (SECRETS_DIR), "r") as secrets_file:
 
 # the date before which no events are pulled
 START_YEAR = 2020
-START_MONTH = 6
+START_MONTH = 8
 START_DAY = 1
 
 # API URLs for retrieving data about events and attendance from Mobilize
