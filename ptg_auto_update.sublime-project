@@ -3,6 +3,9 @@
 	[
 		{
 			"path": "."
+		},
+		{
+			"path": "/Users/pmedrano/Projects/Programming/Python/digidems/pdi_automation"
 		}
 	]
 }
